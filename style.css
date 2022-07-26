@@ -1,0 +1,39 @@
+h1 {
+    font-size: 2em;
+}
+
+.footer {
+    position: absolute;
+    bottom: 10px;
+    width: 100%;
+}
+
+a.nextbtn {
+    float: right;
+    padding: 50px;
+}
+
+a.previousbtn {
+    float: left;
+    padding: 50px;
+}
+
+.commonnum {
+    color:Tomato;
+}
+
+.stepdescriptor {
+    float: left;
+}
+
+table {
+    text-align:left;
+    font-size: 2em;
+}
+
+table.steps {
+    table-layout: fixed;
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
